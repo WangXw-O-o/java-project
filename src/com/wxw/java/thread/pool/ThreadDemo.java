@@ -1,4 +1,4 @@
-package com.wxw.java.thread;
+package com.wxw.java.thread.pool;
 
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
