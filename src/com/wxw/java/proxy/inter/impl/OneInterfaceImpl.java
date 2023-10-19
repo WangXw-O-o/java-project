@@ -1,6 +1,6 @@
 package com.wxw.java.proxy.inter.impl;
 
-import demo.type.proxy.inter.OneInterface;
+import com.wxw.java.proxy.inter.OneInterface;
 
 public class OneInterfaceImpl implements OneInterface {
 

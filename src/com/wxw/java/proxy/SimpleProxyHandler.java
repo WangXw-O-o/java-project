@@ -1,7 +1,5 @@
 package com.wxw.java.proxy;
 
-
-
 import com.wxw.java.proxy.inter.OneInterface;
 import com.wxw.java.proxy.inter.impl.OneInterfaceImpl;
 import com.wxw.java.proxy.inter.impl.OneInterfaceImpl2;
